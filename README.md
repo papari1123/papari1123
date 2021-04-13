@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dltjdrn1123)](https://solved.ac/dltjdrn1123)
+
 <!--
 **papari1123/papari1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
