@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![papari1123's github stats](https://github-readme-stats.vercel.app/api?username=papari1123&show_icons=true)  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dltjdrn1123)](https://solved.ac/dltjdrn1123)
+![papari1123's github stats](https://github-readme-stats.vercel.app/api?username=papari1123&show_icons=true)  
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dltjdrn1123)](https://solved.ac/dltjdrn1123)
 
 <!--
 **papari1123/papari1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
