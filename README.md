@@ -23,7 +23,7 @@
 ## Project
 
 1. X-RAY 영상 획득 장치 개선 (2019.09~2020.12)
-
+  https://github.com/papari1123/Development-of-X-ray-Detector-System
 
 2. 운전자를 위한 소셜 리워드 시스템 개발 (2019.06~2019.08)
 
