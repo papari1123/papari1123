@@ -9,7 +9,7 @@
 
 ## Language
 
-**C** : (Major) 2년(2016,2019:), POSIX  NRF51822, ATMEGA328, IMX6S, RasberryPi, ESP32 관련 프로젝트 개발 경험.
+**C** : (Major) 2년(2016,2019:), POSIX API, NRF51822, ATMEGA328, IMX6S, RasberryPi, ESP32 관련 펌웨어 개발 프로젝트 개발 경험.
 
 **Python** : (Minor) 1년(2018:2019,2021~), 석사 졸업 연구로 numpy, pandas 라이브러리를 이용한 데이터전처리, keras와 tensorflow 활용 경험.
 
