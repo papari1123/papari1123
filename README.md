@@ -9,13 +9,13 @@
 
 ## Language
 
-**C** : 2년(2016,2019:), POSIX  NRF51822, ATMEGA328, IMX6S, RasberryPi, ESP32 관련 프로젝트 개발 경험.
+**C** : (Major) 2년(2016,2019:), POSIX  NRF51822, ATMEGA328, IMX6S, RasberryPi, ESP32 관련 프로젝트 개발 경험.
 
-**Python** : 1년(2018:2019,2021~), 석사 졸업 연구로 numpy, pandas 라이브러리를 이용한 데이터전처리, keras와 tensorflow 활용 경험.
+**Python** : (Minor) 1년(2018:2019,2021~), 석사 졸업 연구로 numpy, pandas 라이브러리를 이용한 데이터전처리, keras와 tensorflow 활용 경험.
 
-**JAVA** : 10개월(2016), 인턴 및 토이프로젝트로 안드로이드 어플 개발 경험.
+**JAVA** : (Minor) 10개월(2016), 인턴 및 토이프로젝트로 안드로이드 어플 개발 경험.
 
-**Verilog** : 6개월(2016,2019:), 학부과정 중 OV5640 카메라 구동, 사내 프로젝트로 TFT 타이밍 컨트롤 및 FSM 개선 경험.
+**Verilog** : (Minor) 6개월(2016,2019:), 학부과정 중 OV5640 카메라 구동, 사내 프로젝트로 TFT 타이밍 컨트롤 및 FSM 개선 경험.
 
 
 
