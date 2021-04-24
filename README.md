@@ -1,3 +1,5 @@
+# LEE,SEONGGU
+
 ## Language
 
 **C** :  2년(2016,2019:), POSIX API, NRF51822, ATMEGA328, IMX6S, RasberryPi, ESP32 관련 펌웨어 개발 프로젝트 개발 경험.
