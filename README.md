@@ -1,14 +1,3 @@
-
-
-
-## Problem solving in BOJ
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dltjdrn1123)](https://solved.ac/dltjdrn1123)    <br/>
-## github status
-![papari1123's github stats](https://github-readme-stats.vercel.app/api?username=papari1123&show_icons=true)
-
-
-
-
 ## Language
 
 **C** :  2년(2016,2019:), POSIX API, NRF51822, ATMEGA328, IMX6S, RasberryPi, ESP32 관련 펌웨어 개발 프로젝트 개발 경험.
@@ -42,6 +31,11 @@
 
 6. 자전거 도난 방지 안드로이드 어플개발 (2015.12~2016.02)
 
+
+## Problem solving in BOJ
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dltjdrn1123)](https://solved.ac/dltjdrn1123)    <br/>
+## github status
+![papari1123's github stats](https://github-readme-stats.vercel.app/api?username=papari1123&show_icons=true)
 
 
 
