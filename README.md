@@ -14,26 +14,24 @@
 
 
 ## Project
+1. 딥러닝 기반 미세먼지 예측 모델링 개발 (2018.09~2019.08) [link](https://github.com/papari1123/Research-of-Particulate-Matter-Prediction-Modeling-Based-on-Deep-Learning)
 
-1. X-RAY 영상 획득 장치 개선 (2019.09~2020.12)
-  https://github.com/papari1123/Development-of-X-ray-Detector-System
+2. X-RAY 영상 획득 장치 개선 (2019.09~2020.12) [link](https://github.com/papari1123/Development-of-X-ray-Detector-System)
+  
+3. 자전거용 스마트 전조등 시스템 개발 (2016.07~2017.08)
 
+4. 자전거 도난 방지 안드로이드 어플개발 (2015.12~2016.02)
 
-2. 딥러닝 기반 미세먼지 예측 모델링 개발 (2018.09~2019.08)
-  https://github.com/papari1123/Research-of-Particulate-Matter-Prediction-Modeling-Based-on-Deep-Learning
-
-
-3. 실물 성장 아바타 시스템 개발 (2017.09~2017.12)
-
-
-4. 자전거용 스마트 전조등 시스템 개발 (2016.07~2017.08)
-
-
-5. 자전거 도난 방지 안드로이드 어플개발 (2015.12~2016.02)
+## Competition
+1. MAIC_VOICE_AI_Challenge_2021 : 음성 멜-스펙트럼 데이터를 이용한 음성 질환 진단 및 분류 (2021.10.29 - 2021.11.16)
+  [link](https://github.com/papari1123/MAIC_VOICE_AI_Challenge_2021)
+  - Rank - 1/43등
 
 
 ## Problem solving in BOJ   https://github.com/papari1123/Problem-Solving
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dltjdrn1123)](https://solved.ac/dltjdrn1123)    <br/>
+
+
 ## github status
 ![papari1123's github stats](https://github-readme-stats.vercel.app/api?username=papari1123&show_icons=true)
 
