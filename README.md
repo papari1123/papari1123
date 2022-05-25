@@ -25,8 +25,9 @@
 ## Competition
 1. MAIC_VOICE_AI_Challenge_2021 : 음성 멜-스펙트럼 데이터를 이용한 음성 질환 진단 및 분류 (2021.10.29 - 2021.11.16)
   [link](https://github.com/papari1123/MAIC_VOICE_AI_Challenge_2021)
-  - Rank - 1/43등
-
+  - Rank : 1/43등
+2. 2021 MISO 인공지능 모델 개발 챌린지 : 영유아 행동 영상 데이터를 활용한 인공지능 아이디어 공모 (2021.11.23 - 2021.12.8)
+  - Rank : 최우수상 (2/6등)
 
 ## Problem solving in BOJ   https://github.com/papari1123/Problem-Solving
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dltjdrn1123)](https://solved.ac/dltjdrn1123)    <br/>
