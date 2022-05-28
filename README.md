@@ -8,9 +8,6 @@
 
 **JAVA** : 10개월(2016), 인턴 및 토이프로젝트로 안드로이드 어플 개발 경험.
 
-**Verilog** : 6개월(2016,2019), 학부과정 중 OV5640 카메라 구동, 사내 프로젝트로 X-ray TFT Timing 제어 및 FSM 개선 경험.
-
-
 
 
 ## Project
@@ -27,7 +24,10 @@
   [link](https://github.com/papari1123/MAIC_VOICE_AI_Challenge_2021)
   - Rank : 1/43등
 2. 2021 MISO 인공지능 모델 개발 챌린지 : 영유아 행동 영상 데이터를 활용한 인공지능 아이디어 공모 (2021.11.23 - 2021.12.8)
-  - Rank : 최우수상 (2/6등)
+  - Rank : 최우수상  (2 / 6등)
+3. 2022 Dev-Matching: 머신러닝 개발자 머신러닝 과제 테스트 : 센서 시계열 데이터를 이용한 행동 추정 (2022-05-28)
+  - Rank : 4등 (답안 제출자 83명 중)
+
 
 ## Problem solving in BOJ   https://github.com/papari1123/Problem-Solving
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dltjdrn1123)](https://solved.ac/dltjdrn1123)    <br/>
