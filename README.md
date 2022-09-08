@@ -29,10 +29,6 @@
   - Rank : 4등 (답안 제출자 83명 중)
 
 
-## Problem solving in BOJ   https://github.com/papari1123/Problem-Solving
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dltjdrn1123)](https://solved.ac/dltjdrn1123)    <br/>
-
-
 ## github status
 ![papari1123's github stats](https://github-readme-stats.vercel.app/api?username=papari1123&show_icons=true)
 
