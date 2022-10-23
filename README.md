@@ -1,5 +1,5 @@
 # LEE,SEONGGU
-[학습 정리 블로그 링크](papari1123.github.io)   
+[학습 정리 블로그 링크 📙](papari1123.github.io)   
 ## Language
 **Python** : (2018-2019,2021~), 석사 졸업 연구로 미세먼지 예측 모델링 개발에 사용, numpy, pandas 라이브러리를 이용한 데이터전처리, keras와 tensorflow 활용 경험.
 **C/C++** :  (2016,2019-2022), POSIX API, NRF51822, ATMEGA328, IMX6S, ESP32 관련 펌웨어 개발 프로젝트 개발 경험.
