@@ -1,23 +1,20 @@
 # LEE,SEONGGU
 
 ## Language
+**Python** : (2018-2019,2021~), 석사 졸업 연구로 미세먼지 예측 모델링 개발에 사용, numpy, pandas 라이브러리를 이용한 데이터전처리, keras와 tensorflow 활용 경험. 
 
-**C** :  (2016,2019-2021), POSIX API, NRF51822, ATMEGA328, IMX6S, ESP32 관련 펌웨어 개발 프로젝트 개발 경험.
-
-**Python** : (2018-2019,2021~), 석사 졸업 연구로 미세먼지 예측 모델링 개발에 사용, numpy, pandas 라이브러리를 이용한 데이터전처리, keras와 tensorflow 활용 경험.
-
+**C/C++** :  (2016,2019-2022), POSIX API, NRF51822, ATMEGA328, IMX6S, ESP32 관련 펌웨어 개발 프로젝트 개발 경험.
 **JAVA** : (2016), 인턴 및 토이프로젝트로 안드로이드 어플 개발 경험.
 
 
 
 ## Project
-1. 딥러닝 기반 미세먼지 예측 모델링 개발 (2018.09~2019.08) [link](https://github.com/papari1123/Research-of-Particulate-Matter-Prediction-Modeling-Based-on-Deep-Learning)
+1. 자전거 도난 방지 안드로이드 어플개발 (2015.12~2016.02)     
+2. 자전거용 스마트 전조등 시스템 개발 (2016.07~2017.08)    
+3. 딥러닝 기반 미세먼지 예측 모델링 개발 (2018.09~2019.08) [link](https://github.com/papari1123/Research-of-Particulate-Matter-Prediction-Modeling-Based-on-Deep-Learning)
+4. X-RAY 영상 획득 장치 임베디드 시스템 개선 (2019.09~2020.12)
+5. 자율주행을 위한 AI-HUB 센서 데이터 구축 사업 참여 (2022.05~2022.09)
 
-2. X-RAY 영상 획득 장치 임베디드 시스템 개선 (2019.09~2020.12)
-  
-3. 자전거용 스마트 전조등 시스템 개발 (2016.07~2017.08)
-
-4. 자전거 도난 방지 안드로이드 어플개발 (2015.12~2016.02)
 
 ## Competition
 1. MAIC_VOICE_AI_Challenge_2021 : 음성 멜-스펙트럼 데이터를 이용한 음성 질환 진단 및 분류 (2021.10.29 - 2021.11.16)
