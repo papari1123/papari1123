@@ -8,11 +8,12 @@
 
 
 ## Project
-1. 자전거 도난 방지 안드로이드 어플개발 (2015.12~2016.02)      
-2. 자전거용 스마트 전조등 시스템 개발 (2016.07~2017.08)     
-3. 딥러닝 기반 미세먼지 예측 모델링 개발 (2018.09~2019.08) [link](https://github.com/papari1123/Research-of-Particulate-Matter-Prediction-Modeling-Based-on-Deep-Learning)     
+1. 자전거 도난 방지 안드로이드 어플 개발 인턴 (2015.12 ~ 2016.02)      
+2. 자전거용 스마트 전조등 시스템 개발 (2016.07 ~ 2017.08)     
+3. 딥러닝 기반 미세먼지 예측 모델링 개발 (2018.09 ~ 2019.08) [link](https://github.com/papari1123/Research-of-Particulate-Matter-Prediction-Modeling-Based-on-Deep-Learning)     
 4. X-RAY 영상 획득 장치 임베디드 시스템 개선 (2019.09~2020.12)     
 5. 자율주행을 위한 AI-HUB 센서 데이터 구축 사업 참여 (2022.05~2022.09)     
+6. 
 
 
 ## Competition
